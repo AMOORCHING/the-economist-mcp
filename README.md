@@ -1,4 +1,4 @@
-# The Economist Poke MCP
+# The Economist MCP
 
 An MCP (Model Context Protocol) server that fetches content from The Economist.
 
@@ -14,7 +14,7 @@ An MCP (Model Context Protocol) server that fetches content from The Economist.
 1. Clone this repository:
 ```bash
 git clone <repository-url>
-cd the-economist-poke-mcp
+cd the-economist-mcp
 ```
 
 2. Install dependencies using `uv` (recommended) or `pip`:
