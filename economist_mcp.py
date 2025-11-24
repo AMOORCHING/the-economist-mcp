@@ -1,4 +1,4 @@
-from mcp.server.fastmcp import FastMCP
+from fastmcp import FastMCP
 import requests
 from bs4 import BeautifulSoup
 import os
